@@ -53,5 +53,3 @@ echo *XONG*
     * 3.2 checklist kiểm tra thiết bị ( heading 2 )
     * 3.3 Bảng thông số phần cứng ( heading 2 )
 Chèn Auto TOC ở trang đầu tiên : ấn vào `references` và chọn `Table of contents` tiếp tục chọn `automatic table 1`
-  ## Module 4 : Đối soát tài nguyên ( Excel )
-  =VLOOKUP(TRIM(B2), 'danh-muc-linh-kien'!$A$2:$D$11, 2, FALSE)
